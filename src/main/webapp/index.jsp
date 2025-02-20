@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>MYFLIX SIGN IN Y-6.0</h2>
+      <h2>PRIME SIGN IN V-6.0</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
